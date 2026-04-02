@@ -1,48 +1,44 @@
 # Splunk Dashboards Portfolio
 
-Collection of real-world dashboards focused on performance monitoring, data analysis, and root cause identification.
+Real-world dashboards demonstrating performance monitoring, data correlation, and root cause analysis.
 
 ---
 
-## 🔍 Overview
+## 🔍 What you’ll find here
 
-This repository contains practical examples of dashboards built to analyze system behavior, detect performance issues, and provide actionable insights through data correlation.
+A collection of practical dashboards built to:
 
-Each dashboard demonstrates a structured approach to understanding complex environments by combining multiple metrics and visualizations.
-
----
-
-## 🧠 Focus Areas
-
-- Performance monitoring
-- Data correlation
-- Root cause analysis
-- End-to-end visibility
-- Proactive issue detection
+- Monitor system and application performance  
+- Identify issues impacting end-user experience  
+- Correlate data across multiple layers  
+- Support faster troubleshooting and decision-making  
 
 ---
 
-## 📊 Dashboards
+## 📊 Portfolio Structure
 
-Each folder in this repository represents a complete use case, including:
-- Problem statement
-- Data and metrics used
-- Dashboard design
-- Key insights and impact
+Each folder represents a real use case, including:
 
----
-
-## 🛠️ Technologies
-
-- Splunk (Dashboards & SPL)
-- Log and metrics analysis
-- Data normalization and transformation
+- Problem being solved  
+- Key metrics and data sources  
+- Dashboard design  
+- Insights and impact  
 
 ---
 
-## 🎯 Purpose
+## 🧠 Core Skills Demonstrated
 
-This portfolio is intended to demonstrate practical skills in building data-driven dashboards that help identify, analyze, and resolve performance-related issues.
+- Splunk dashboard development  
+- SPL (Search Processing Language)  
+- Data analysis and correlation  
+- Observability and monitoring  
+- Performance troubleshooting  
+
+---
+
+## 🎯 Goal
+
+This portfolio showcases how data can be transformed into actionable insights to improve visibility and resolve performance issues efficiently.
 
 ---
 
