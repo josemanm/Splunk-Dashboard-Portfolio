@@ -1,9 +1,9 @@
-# Splunk Dashboards Portfolio
+# Splunk Observability Portfolio
  
-> Transforming raw operational data into decisions — real dashboards built to detect, correlate, and resolve performance issues faster.
+> Splunk Observability Engineer portfolio focused on ISP-scale environments — turning raw telemetry into actionable insights to detect, correlate, and prevent end-user experience degradation.
  
-![SPL](https://img.shields.io/badge/SPL-Search_Processing_Language-black)
-![Splunk](https://img.shields.io/badge/Built_with-Splunk-green)
+![Splunk](https://img.shields.io/badge/Built_with-Splunk_SPL-green)
+![SPL](https://img.shields.io/badge/Focus-Observability-orange)
 ![Focus](https://img.shields.io/badge/Focus-Observability_%26_Root_Cause_Analysis-blue)
  
 ---
