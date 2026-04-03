@@ -10,22 +10,23 @@
  
 ## What is this for ...
  
-Most engineers can build dashboards. Very few can build observability systems that actually drive decisions.
+Most engineers can build dashboards. Very few can build **observability systems that actually drive decisions**.
 
-In large-scale environments, teams are flooded with alerts but still lack clarity on what truly matters — what is impacting users, where the problem originates, and how to act quickly.
+In large-scale environments, teams are flooded with alerts but still lack clarity on what truly matters — **what is impacting users, where the problem originates, and how to act quickly**.
 
 This portfolio exists to demonstrate that difference.
 
-It showcases how I design and build Splunk-based observability solutions that:
-- Detect issues before they become outages
-- Correlate data across multiple layers (network, application, external services)
-- Turn raw telemetry into clear, actionable insights
+It showcases how I design and build **Splunk-based observability solutions** that:
 
-Each project reflects real-world problems solved end-to-end — from data onboarding and normalization to advanced SPL, dashboard design, and measurable operational impact.
+- **Detect issues before they become outages**
+- **Correlate data across multiple layers** (network, application, external services)
+- **Turn raw telemetry into clear, actionable insights**
+
+Each project reflects **real-world problems solved end-to-end** — from data onboarding and normalization to advanced SPL, dashboard design, and **measurable operational impact**.
 
 **This is not a collection of dashboards.**
 
-It’s a demonstration of how I approach observability as a system — focused on reducing noise, accelerating root cause analysis, and improving end-user experience at scale.
+It’s a demonstration of how I approach **observability as a system** — focused on **reducing noise, accelerating root cause analysis, and improving end-user experience at scale**.
  
 
 
