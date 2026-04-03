@@ -5,7 +5,7 @@
 ![Splunk](https://img.shields.io/badge/Built_with-Splunk_SPL-green)
 ![SPL](https://img.shields.io/badge/Focus-Observability-orange)
 ![Focus](https://img.shields.io/badge/Data-Correlation-blue)
- 
+![Focus](https://img.shields.io/badge/Performance_Monitoring-purple)
 
  
 ## What is this for ...
