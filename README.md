@@ -1,6 +1,3 @@
-Readme · MD
-Copy
-
 # Splunk Dashboards Portfolio
  
 > Transforming raw operational data into decisions — real dashboards built to detect, correlate, and resolve performance issues faster.
