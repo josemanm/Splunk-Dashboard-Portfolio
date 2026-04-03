@@ -44,7 +44,7 @@ It’s a demonstration of how I approach **observability as a system** — focus
 ```
 📂 use-case-name/
 ├── README.md         ← Problem, approach, and impact
-├── dashboard.json    ← Exportable Splunk dashboard
+├── dashboard.xml    ← Exportable Splunk dashboard
 ├── queries.spl       ← Key SPL searches used
 └── screenshots/      ← Visual reference
 ```
