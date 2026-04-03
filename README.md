@@ -27,8 +27,16 @@ This is not a collection of dashboards.
 
 It’s a demonstration of how I approach observability as a system — focused on reducing noise, accelerating root cause analysis, and improving end-user experience at scale.
  
----
- 
+
+## What makes this portfolio different
+
+- Built for ISP-scale observability, not generic monitoring.
+- Focused on end-user digital experience, not just infrastructure health.
+- Strong emphasis on cross-layer correlation (network, app, third-party services).
+- Designed for proactive detection, not reactive dashboards.
+- Combines data engineering + SPL + visualization + incident workflows.
+  
+--- 
 ## Dashboards
  
 ### 01 — Web Error Rate Monitor
