@@ -23,7 +23,7 @@ It showcases how I design and build Splunk-based observability solutions that:
 
 Each project reflects real-world problems solved end-to-end — from data onboarding and normalization to advanced SPL, dashboard design, and measurable operational impact.
 
-This is not a collection of dashboards.
+**This is not a collection of dashboards.**
 
 It’s a demonstration of how I approach observability as a system — focused on reducing noise, accelerating root cause analysis, and improving end-user experience at scale.
  
