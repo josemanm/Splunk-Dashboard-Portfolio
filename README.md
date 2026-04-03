@@ -18,9 +18,9 @@ This portfolio exists to demonstrate that difference.
 
 It showcases how I design and build **Splunk-based observability solutions** that:
 
-- **Detect issues before they become outages**
-- **Correlate data across multiple layers** (network, application, external services)
-- **Turn raw telemetry into clear, actionable insights**
+- Detect issues before they become outages
+- Correlate data across multiple layers (network, application, external services)
+- Turn raw telemetry into clear, actionable insights
 
 Each project reflects **real-world problems solved end-to-end** — from data onboarding and normalization to advanced SPL, dashboard design, and **measurable operational impact**.
 
@@ -44,7 +44,7 @@ It’s a demonstration of how I approach **observability as a system** — focus
 ```
 📂 use-case-name/
 ├── README.md         ← Problem, approach, and impact
-├── dashboard.xml    ← Exportable Splunk dashboard
+├── dashboard.xml     ← Exportable Splunk dashboard
 ├── queries.spl       ← Key SPL searches used
 └── screenshots/      ← Visual reference
 ```
