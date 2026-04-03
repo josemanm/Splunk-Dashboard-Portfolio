@@ -4,7 +4,7 @@
  
 ![Splunk](https://img.shields.io/badge/Built_with-Splunk_SPL-green)
 ![SPL](https://img.shields.io/badge/Focus-Observability-orange)
-![Focus](https://img.shields.io/badge/Focus-Observability_%26_Root_Cause_Analysis-blue)
+![Focus](https://img.shields.io/badge/Data-Correlation-blue)
  
 ---
  
