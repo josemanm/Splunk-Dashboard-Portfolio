@@ -6,7 +6,7 @@
 ![SPL](https://img.shields.io/badge/Focus-Observability-orange)
 ![Focus](https://img.shields.io/badge/Data-Correlation-blue)
  
----
+
  
 ## What is this for ...
  
@@ -27,6 +27,7 @@ This is not a collection of dashboards.
 
 It’s a demonstration of how I approach observability as a system — focused on reducing noise, accelerating root cause analysis, and improving end-user experience at scale.
  
+
 
 ## What makes this portfolio different
 
