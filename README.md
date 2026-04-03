@@ -140,10 +140,16 @@ index=app_logs OR index=db_logs OR index=lb_logs transaction_id=*
  
 ---
  
-## Contact
- 
-Open to roles in observability, platform engineering, SRE, or data analytics.
+## Let’s connect
+
+I’m currently exploring opportunities in:
+- Splunk Engineering
+- Observability / SRE
+- Platform Engineering
+
+Focused on roles where I can drive measurable impact on end-user experience and system reliability.
+
+📩 Reach out via LinkedIn or email
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:your@email.com)
- 
