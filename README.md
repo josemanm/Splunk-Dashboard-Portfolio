@@ -40,21 +40,13 @@ It’s a demonstration of how I approach observability as a system — focused o
 ---
  
 ## Repo structure
- 
 ```
-📂 01-web-error-rate/
-├── README.md          ← Problem, approach, and impact
-├── dashboard.json     ← Exportable Splunk dashboard
-├── queries.spl        ← Key searches with inline comments
-└── screenshots/       ← Visual reference
- 
-📂 02-infrastructure-health/
-└── ...
- 
-📂 03-transaction-correlation/
-└── ...
+📂 use-case-name/
+├── README.md         ← Problem, approach, and impact
+├── dashboard.json    ← Exportable Splunk dashboard
+├── queries.spl       ← Key SPL searches used
+└── screenshots/      ← Visual reference
 ```
- 
 ---
  
 ## Let’s connect
