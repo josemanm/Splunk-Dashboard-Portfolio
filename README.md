@@ -60,5 +60,5 @@ Focused on roles where I can drive measurable impact on end-user experience and 
 
 📩 Reach out via LinkedIn or email
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](www.linkedin.com/in/josemanm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/josemanm)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:josemanm.itunes@gmail.com)
