@@ -8,7 +8,7 @@
  
 ---
  
-## Why this exists
+## What is this for ...
  
 Most engineers can build dashboards. Very few can build observability systems that actually drive decisions.
 
